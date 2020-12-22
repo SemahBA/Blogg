@@ -22,24 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: Internship
+    company: Athena Experts
+    company_url: 'https://www.athena-experts.com/index.php/en/home/'
+    location: Tunisia
+    date_start: '2020-07-04'
+    date_end: '2020-09-04'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing a penetration testing platform
+        * Setting up Linux machines for penetration testing
+        * Deploying the platform and the machines
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Technical manager
+    company: Securinets
+    company_url: 'https://securinets.com/'
+    location: Tunisia
+    date_start: '2019-09-01'
+    date_end: 'present'
+    description: |2-
+        Responsibilities include:
+        
+        * Participating in CTF organization including task making
+        * and setting up the infrastructure for the CTFs
+        * Supervising a network security workshop where we built network attacks tool
+        * Supervising a Mobile reverse engineering workshop
+        
 ---
