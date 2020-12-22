@@ -21,6 +21,8 @@ interests:
 - Reverse Engineering
 - Penetration testing
 - IT
+- Binary Exploitation
+- Development
 
 # Education to show in About widget
 education:
