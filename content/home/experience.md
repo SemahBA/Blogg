@@ -50,4 +50,12 @@ experience:
         * Supervising a network security workshop where we built network attacks tool
         * Supervising a Mobile reverse engineering workshop
         
+        
+  - title: Media manager
+    company: Securinets
+    company_url: 'https://securinets.com/'
+    location: Tunisia
+    date_start: '2020-09-01'
+    date_end: 'present'
+    description: Mediatisation of the association activities and managing all its social media
 ---
