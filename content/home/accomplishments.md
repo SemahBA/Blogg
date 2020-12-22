@@ -34,9 +34,9 @@ item:
 - certificate_url: 
   date_end: "2020-12-01"
   date_start: "2020-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
+  description: 
+  organization: 
+  organization_url: 
   title: Ranked among the top 60 teams in the world in CTFs (2019 - 2020)
   url: https://ctftime.org/team/72251
 ---
