@@ -94,6 +94,7 @@ email = "mohamed.arfaoui.work@gmail.com"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/H4MA_TN"},
+  {icon = "linkedin", icon_pack = "fab", name = "Contact Me", link = "https://www.linkedin.com/in/mohamed-arfaoui/"},
   ]
 
 ############################
