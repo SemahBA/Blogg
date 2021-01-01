@@ -1,5 +1,5 @@
 ---
-title: VulnconCTF 2020 writeups
+title: VulnconCTF 2020 writeup
 subtitle: Reverse engineering
 
 # Summary for listings and search engines
