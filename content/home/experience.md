@@ -48,4 +48,17 @@ experience:
         * and setting up the infrastructure for the CTFs
         * Supervising a network security workshop where we built network attacks tool
         * Supervising a Mobile reverse engineering workshop
+
+  - title: Media manager
+    company: Securinets
+    company_url: 'https://securinets.com/'
+    location: Tunisia
+    date_start: '2020-09-09'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Mediatisation of the association activities
+        * Managing Securinets social media including a Facebook page with more than 13K followers
+        * Publishing Cyber Security news articles
 ---
