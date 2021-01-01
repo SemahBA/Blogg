@@ -22,6 +22,6 @@ item:
 widget_id: accomplishments
 headless: true
 weight: 50
-title: Accomplish&shy;mentssadsadasadsadsa
+title: Accomplishments
 subtitle: null
 ---
