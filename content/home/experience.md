@@ -26,8 +26,8 @@ experience:
     company: Athena Experts
     company_url: 'https://www.athena-experts.com/index.php/en/home/'
     location: Tunisia
-    date_start: '2020-07-04'
-    date_end: '2020-09-04'
+    date_start: ''
+    date_end: ''
     description: |2-
         Responsibilities include:
         
@@ -40,7 +40,7 @@ experience:
     company: Securinets
     company_url: 'https://securinets.com/'
     location: Tunisia
-    date_start: '2019-09-01'
+    date_start: ''
     date_end: 'present'
     description: |2-
         Responsibilities include:
@@ -55,7 +55,7 @@ experience:
     company: Securinets
     company_url: 'https://securinets.com/'
     location: Tunisia
-    date_start: '2020-09-01'
+    date_start: ''
     date_end: 'present'
     description: Mediatisation of the association activities and managing all its social media
 ---
