@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://noobarmy.org/vulncon/img/VULNCON.png)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -60,7 +60,7 @@ HashMe                     Reverse Engineering  100     vulncon{r3ver5eM4s7er}
 **Challenge**  
 Can you find my unique blockchain address inside a corrupted and scrambled program , remember the blockchain address is of 42 chars.
 
-![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/1.png)
+![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/1.png?raw=true)
 
 **Solution**  
 For this challenge, we are provided with a binary, and based on the description we have to find a blockchain address that is 42 chars long
@@ -68,20 +68,20 @@ For this challenge, we are provided with a binary, and based on the description 
 So we start analyzing the binary
 
 
-![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/2.png)
+![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/2.png?raw=true)
 
 it‘s a 64 bit ELF binary so we open IDA and we start checking the disassembly
 
 
-![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/3.png)
+![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/3.png?raw=true)
 
 We notice that there is more than one function called main so after having a look we notice that in the function main_one the binary is loading a hex
 
-![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/4.png)
+![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/4.png?raw=true)
 
 We take that string and with python, we check the length:
 
-![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/5.png)
+![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/5.png?raw=true)
 
 So its length is 42 so we submit and its the flag 
 
@@ -95,12 +95,12 @@ vulncon{0xE209470e1289D4CE5F23aa7e486228c46C4D99a4}
 **Challenge**  
 I hash I xor what else can I do?
 
-![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/7.png)
+![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/7.png?raw=true)
 
 **Solution**  
 For this challenge, we are provided with a binary, and after analyzing we fin that it’s a 32bit ELF
 
-![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/8.png)
+![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/8.png?raw=true)
 
 And once we open IDA we find a lot of conditions so I understood that I have to generate a correct flag
 
@@ -134,11 +134,11 @@ print(valid)
 ```
 I calculated the addresses of the instructions using IDA hex view
 
-![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/9.png)
+![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/9.png?raw=true)
 
 Note: the script didn’t work on WSL so I tried it in a Ubuntu VM and it worked fine
 
-![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/10.png)
+![alt text](https://github.com/H4MA-A/Writeups/blob/main/vulnconCTF2020/10.png?raw=true)
 
 **Flag**  
 ```
