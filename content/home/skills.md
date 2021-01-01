@@ -1,8 +1,8 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+draft: true
 widget: featurette
-display: false
 
 # This file represents a page section.
 headless: false
