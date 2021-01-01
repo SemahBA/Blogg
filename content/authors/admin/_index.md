@@ -68,6 +68,7 @@ I am Computer science and network engineering at insat, a cybersecurity enthusia
 - Web/mobile developement
 - Python developement
 - Great at bash/python scripting
+
 I am Currently a CTF Player at [Fwod](https://twitter.com/FwordTeam) which is one of the top 50 teams in the world
 
 
