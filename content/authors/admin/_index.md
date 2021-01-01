@@ -63,12 +63,14 @@ email: ""
 highlight_name: false
 ---
 
-- A cybersecurity enthusiast who is hardworking and always willing to learn
+I am Computer science and network engineering at insat, a cybersecurity enthusiast who is hardworking and always willing to learn and i have a wide skill set including:
+- Specialist in reverse engineering and malware analysis
+- Penetratin testing
 - Web/mobile developer
 - Python developer
 - Great at bash/python scripting
-- Currently a CTF Player at Fword which is one of the top 50 teams in the world
-- Specialist in reverse engineering and malware analysis
+
+I am Currently a CTF Player at [Fwod](https://twitter.com/FwordTeam) which is one of the top 50 teams in the world
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resume{{< /staticref >}}.
