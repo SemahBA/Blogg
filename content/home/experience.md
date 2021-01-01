@@ -35,11 +35,17 @@ experience:
         * Setting up Linux machines for penetration testing
         * Deploying the platform and the machines
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Technical manager
+    company: Securinets
+    company_url: 'https://securinets.com/'
+    location: Tunisia
+    date_start: '2019-09-09'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Participating in CTF organization including task making
+        * and setting up the infrastructure for the CTFs
+        * Supervising a network security workshop where we built network attacks tool
+        * Supervising a Mobile reverse engineering workshop
 ---
