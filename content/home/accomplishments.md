@@ -19,9 +19,9 @@ item:
     organization_url: null
     title: Ranked among the top 60 teams in the world in CTFs (2019 - 2020)
     url: https://ctftime.org/team/72251
-widget_id: Achievements
+widget_id: accomplishments
 headless: true
 weight: 50
-title: Accomplishments
+title: Achievements
 subtitle: null
 ---
