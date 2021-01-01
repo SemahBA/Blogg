@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 01/02/06
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,17 +22,24 @@ date_format: 01/02/06
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Internship
-    company: Athena Experts
-    company_url: 'https://www.athena-experts.com/index.php/en/home/'
-    location: Tunisia
-    date_start: '07/4/20'
-    date_end: '09/4/20'
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    location: California
+    date_start: '2017-01-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Developing a penetration testing platform
-        * Setting up Linux machines for penetration testing
-        * Deploying the platform and the machines
-
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor
+    company: University X
+    company_url: ''
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 ---
