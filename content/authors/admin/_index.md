@@ -62,11 +62,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am Computer science and network engineering student at insat, a cybersecurity enthusiast who is hardworking and always willing to learn and i have a wide skill set including:
+I am a Computer science and network engineering student at insat, a cybersecurity enthusiast who is hardworking and always willing to learn and I have a wide skill set including:
 - Specialist in reverse engineering and malware analysis
-- Penetratin testing
-- Web/mobile developement
-- Python developement
+- Penetration testing
+- Web/mobile development
+- Python development
 - Great at bash/python scripting
 
 I am Currently a CTF Player at [Fwod](https://twitter.com/FwordTeam) which is one of the top 50 teams in the world
